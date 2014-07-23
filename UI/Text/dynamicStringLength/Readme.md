@@ -1,0 +1,1 @@
+This demo shows get string size (Width and Height) based on different string length.

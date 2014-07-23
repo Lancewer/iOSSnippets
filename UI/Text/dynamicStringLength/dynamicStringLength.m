@@ -1,0 +1,2 @@
+//This method is already deprecated in iOS 7, see more detail in SDK Document.
+CGSize dynamicSize = [stringContent sizeWithFont:[UIFont systemFontOfSize:25] constrainedToSize:CGSizeMake(320, 40) lineBreakMode:NSLineBreakByWordWrapping];
