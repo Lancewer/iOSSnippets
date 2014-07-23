@@ -1,0 +1,1 @@
+This demo create a child view and add it to the super view’s center, that means child view  ’s center is its super view’s center.
